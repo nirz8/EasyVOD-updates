@@ -71,6 +71,12 @@
       "version_code": 46,
       "reserved_at": "2026-11-25T21:20:29.589207+00:00",
       "message_id": 16
+    },
+    "v0.18.14": {
+      "status": "pending",
+      "release_id": 459881234,
+      "version_code": 47,
+      "reserved_at": "2026-11-26T20:39:29.745980+00:00"
     }
   }
 }
