@@ -80,10 +80,11 @@
       "message_id": 17
     },
     "v0.18.15": {
-      "status": "pending",
+      "status": "sent",
       "release_id": 461088793,
       "version_code": 48,
-      "reserved_at": "2026-11-27T21:41:08.073585+00:00"
+      "reserved_at": "2026-11-27T21:41:08.073585+00:00",
+      "message_id": 18
     }
   }
 }
